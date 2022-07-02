@@ -1,0 +1,21 @@
+{
+    "folders": [
+        {
+            "path": "./Bot",
+            "name": "Bot"
+        },
+        {
+            "path": "./Data",
+            "name": "Data"
+        },
+        {
+            "path": "./Prototypes",
+            "name": "Prototypes"
+        },
+        {
+            "path": "./Server",
+            "name": "Server"
+        }
+    ],
+    "settings": {}
+}
